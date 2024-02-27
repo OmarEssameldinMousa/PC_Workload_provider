@@ -1,0 +1,4 @@
+CPU Usage: 0%
+Memory Usage: 5096 MB
+HDD Usage: 60.19702 GB
+Network Usage: 1626201 KB/s
